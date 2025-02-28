@@ -61,6 +61,7 @@ curl http://ec2-18-189-178-147.us-east-2.compute.amazonaws.com:42000/greeting
 ```
 
 ## Imágenes del Despliegue
-![Ejecución en local](imagenes/local.png)
-![Despliegue en AWS](imagenes/aws.png)
+![image](https://github.com/user-attachments/assets/6b24b00b-115b-4960-aa6b-213cdb6992f7)
+![image](https://github.com/user-attachments/assets/240802aa-2b25-4890-8e95-be269e6be4e6)
+
 
